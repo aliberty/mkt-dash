@@ -1,0 +1,130 @@
+E:\Work\2\874\bin\Release\ShowSamples\IGMarketingDashboard.dll
+E:\Work\2\874\bin\Release\ShowSamples\IGMarketingDashboard.pdb
+E:\Work\2\874\bin\Release\ShowSamples\ja\IGMarketingDashboard.resources.dll
+E:\Work\2\874\src\DEV\jQuery\2015.2\Samples\Showcases\MarketingDashboard\IGMarketingDashboard\obj\Release\IGMarketingDashboard.csprojResolveAssemblyReference.cache
+E:\Work\2\874\src\DEV\jQuery\2015.2\Samples\Showcases\MarketingDashboard\IGMarketingDashboard\obj\Release\IGMarketingDashboard.Resources.Main.resources
+E:\Work\2\874\src\DEV\jQuery\2015.2\Samples\Showcases\MarketingDashboard\IGMarketingDashboard\obj\Release\IGMarketingDashboard.Resources.Main.ja.resources
+E:\Work\2\874\src\DEV\jQuery\2015.2\Samples\Showcases\MarketingDashboard\IGMarketingDashboard\obj\Release\IGMarketingDashboard.csproj.GenerateResource.Cache
+E:\Work\2\874\src\DEV\jQuery\2015.2\Samples\Showcases\MarketingDashboard\IGMarketingDashboard\obj\Release\ja\IGMarketingDashboard.resources.dll
+E:\Work\2\874\src\DEV\jQuery\2015.2\Samples\Showcases\MarketingDashboard\IGMarketingDashboard\obj\Release\IGMarketingDashboard.dll
+E:\Work\2\874\src\DEV\jQuery\2015.2\Samples\Showcases\MarketingDashboard\IGMarketingDashboard\obj\Release\IGMarketingDashboard.pdb
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\IGMarketingDashboard.dll.config
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\IGMarketingDashboard.dll
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\IGMarketingDashboard.pdb
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\ja\IGMarketingDashboard.resources.dll
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\Antlr3.Runtime.dll
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\Microsoft.Owin.dll
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\Microsoft.Owin.Security.dll
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\Newtonsoft.Json.dll
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\Owin.dll
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\System.Net.Http.Formatting.dll
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\System.Web.Helpers.dll
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\System.Web.Http.dll
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\System.Web.Http.WebHost.dll
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\System.Web.Mvc.dll
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\System.Web.Optimization.dll
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\System.Web.Razor.dll
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\System.Web.WebPages.dll
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\System.Web.WebPages.Razor.dll
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\WebGrease.dll
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\System.Web.Helpers.xml
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\System.Web.Mvc.xml
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\System.Web.Optimization.xml
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\System.Web.Razor.xml
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\System.Web.WebPages.xml
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\System.Web.WebPages.Razor.xml
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\Antlr3.Runtime.pdb
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\Newtonsoft.Json.xml
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\System.Net.Http.Formatting.xml
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\System.Web.Http.xml
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\System.Web.Http.WebHost.xml
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\Microsoft.Owin.xml
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\Microsoft.Owin.Security.xml
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\obj\Release\IGMarketingDashboard.csprojResolveAssemblyReference.cache
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\obj\Release\IGMarketingDashboard.Resources.Main.resources
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\obj\Release\IGMarketingDashboard.Resources.Main.ja.resources
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\obj\Release\IGMarketingDashboard.csproj.GenerateResource.Cache
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\obj\Release\ja\IGMarketingDashboard.resources.dll
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\obj\Release\IGMarketingDashboard.dll
+C:\Users\aliberty\Downloads\New folder\Infragistics_IgniteUI_Showcase_MarketingDashboard_Source\IGMarketingDashboard\obj\Release\IGMarketingDashboard.pdb
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\IGMarketingDashboard.dll.config
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\IGMarketingDashboard.dll
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\IGMarketingDashboard.pdb
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\ja\IGMarketingDashboard.resources.dll
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\Antlr3.Runtime.dll
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\Microsoft.Owin.dll
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\Microsoft.Owin.Security.dll
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\Newtonsoft.Json.dll
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\Owin.dll
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\System.Net.Http.Formatting.dll
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\System.Web.Helpers.dll
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\System.Web.Http.dll
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\System.Web.Http.WebHost.dll
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\System.Web.Mvc.dll
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\System.Web.Optimization.dll
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\System.Web.Razor.dll
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\System.Web.WebPages.dll
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\System.Web.WebPages.Razor.dll
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\WebGrease.dll
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\System.Web.Helpers.xml
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\System.Web.Mvc.xml
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\System.Web.Optimization.xml
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\System.Web.Razor.xml
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\System.Web.WebPages.xml
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\System.Web.WebPages.Razor.xml
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\Antlr3.Runtime.pdb
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\Newtonsoft.Json.xml
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\System.Net.Http.Formatting.xml
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\System.Web.Http.xml
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\System.Web.Http.WebHost.xml
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\Microsoft.Owin.xml
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\Microsoft.Owin.Security.xml
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\obj\Release\IGMarketingDashboard.csprojResolveAssemblyReference.cache
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\obj\Release\IGMarketingDashboard.Resources.Main.resources
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\obj\Release\IGMarketingDashboard.Resources.Main.ja.resources
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\obj\Release\IGMarketingDashboard.csproj.GenerateResource.Cache
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\obj\Release\ja\IGMarketingDashboard.resources.dll
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\obj\Release\IGMarketingDashboard.dll
+C:\Users\aliberty\git\DashboardUI\IGMarketingDashboard\obj\Release\IGMarketingDashboard.pdb
